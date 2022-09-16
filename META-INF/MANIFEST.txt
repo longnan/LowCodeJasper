@@ -1,0 +1,1 @@
+Service-Component: OSGI-INF/TH_PR_BidDocEvent.xml,OSGI-INF/TH_PR_BidModelFactory.xml
