@@ -21,6 +21,5 @@
 	<classpathentry kind="lib" path="lib/styled-xml-parser-7.2.3.jar"/>
 	<classpathentry kind="lib" path="lib/svg-7.2.3.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-api-2.0.3.jar"/>
-	<classpathentry kind="lib" path="lib/spire.xls-5.4.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

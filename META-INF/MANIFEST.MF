@@ -33,6 +33,7 @@ Require-Bundle: org.adempiere.base;bundle-version="3.1.0",
  org.adempiere.plugin.utils;bundle-version="4.1.0",
  wrapped.org.apache.poi.poi;bundle-version="4.1.2",
  org.adempiere.ui.zk,
- org.apache.poi.ooxml-schemas;bundle-version="4.1.2"
+ org.apache.poi.ooxml-schemas;bundle-version="4.1.2",
+ org.apache.commons.commons-text
 Service-Component: OSGI-INF/*.xml
 
