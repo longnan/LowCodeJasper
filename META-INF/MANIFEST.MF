@@ -36,4 +36,8 @@ Require-Bundle: org.adempiere.base;bundle-version="3.1.0",
  org.apache.poi.ooxml-schemas;bundle-version="4.1.2",
  org.apache.commons.commons-text
 Service-Component: OSGI-INF/*.xml
+Bundle-ClassPath: .,
+ lib/poi-scratchpad-4.1.2.jar,
+ lib/slf4j-api-2.0.3.jar,
+ lib/SparseBitSet-1.2.jar
 
