@@ -37,7 +37,12 @@ Require-Bundle: org.adempiere.base;bundle-version="3.1.0",
  org.apache.commons.commons-text
 Service-Component: OSGI-INF/*.xml
 Bundle-ClassPath: .,
- lib/poi-scratchpad-4.1.2.jar,
  lib/slf4j-api-2.0.3.jar,
- lib/SparseBitSet-1.2.jar
+ lib/commons-7.2.3.jar,
+ lib/jackson-annotations-2.14.1.jar,
+ lib/jackson-core-2.14.1.jar,
+ lib/jackson-databind-2.14.1.jar,
+ lib/licensing-base-4.0.4.jar,
+ lib/log4j-api-2.18.0.jar,
+ lib/pdfoffice-2.0.3.jar
 
